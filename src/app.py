@@ -1,5 +1,5 @@
 def main():
-    print("Hello from the Conflict Demo Branch!")
+    print("Hello from the Resolved Project!")
 
 if __name__ == "__main__":
     main()
